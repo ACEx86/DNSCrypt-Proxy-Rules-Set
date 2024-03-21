@@ -1,0 +1,9 @@
+# Torrent
+tracker.leechers-paradise.org
+tracker.opentrackr.org
+tracker.internetwarriors.net
+tracker.coppersurfer.tk
+tracker.cyberia.is
+# For Windows
+h-microsoft.online-metrix.net
+vlscppe.microsoft.com
